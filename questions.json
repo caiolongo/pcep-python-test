@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "title": "Question 01",
+            "text": "What is the expected output of the following code snippet?<br><br>for x in range(13, 2, -2):<br>print(x, end=',', sep=' ')<br>",
+            "answers": ["13,11,9,7,5,3,", "13 11 9 7 5 3", "13,11,9,7,5,3", "13 11 9 7 5 3,"],
+            "answerRight": "13,11,9,7,5,3,"
+        }
+    ]
+}
